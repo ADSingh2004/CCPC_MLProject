@@ -7,7 +7,7 @@ Code Crafter Programming Club - Team AI/ML Project Workspace
 This project aims to create a predictive analytics system to forecast the effects of
 climate change on farming productivity and offer optimised farming techniques to
 reduce negative impacts. The system will analyse historical climate data, soil info,
-crop yield records, and satellite images to make predictions and suggestions.
+crop yield records and satellite images to make predictions and suggestions.
 
 # Key Objectives
 1. Data Collection and Preprocessing:
